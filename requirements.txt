@@ -1,0 +1,6 @@
+torch
+torchvision  # If you also need torchvision
+PIL
+segmentation_models_pytorch
+tifffile
+numpy
