@@ -1,3 +1,7 @@
+!pip install PIL 
+!pip install torch 
+!pip install tifffile
+!pip install numpy
 import streamlit as st
 from PIL import Image
 import torch
