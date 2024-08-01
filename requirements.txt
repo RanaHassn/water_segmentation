@@ -1,6 +1,6 @@
 torch
 torchvision  # If you also need torchvision
-PIL
+Pillow
 segmentation_models_pytorch
 tifffile
 numpy
